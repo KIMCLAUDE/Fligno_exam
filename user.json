@@ -1,0 +1,20 @@
+[
+{"type":"header","version":"5.1.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"user"},
+{"type":"table","name":"user","database":"user","data":
+[
+{"id":"1","email":"kiperez1828@gmail.com","password":"12345","role":"0x55736572","Active":"1"},
+{"id":"3","email":"kimclaude.perez@yaoo.com","password":"1234","role":"0x55736572","Active":"0"},
+{"id":"5","email":"savannah28@yahoo.com","password":"20162804","role":"0x41646d696e","Active":"0"},
+{"id":"6","email":"dasdnah@gmail.com","password":"","role":"0x55736572","Active":"1"},
+{"id":"9","email":"kimperez2318@yahoo.com","password":"201110425","role":"0x41646d696e","Active":"1"},
+{"id":"10","email":"jasminedoria2895@yahoo.com","password":"dada","role":"0x55736572","Active":"0"},
+{"id":"15","email":"imeldaperez25@yahoo.com","password":"123456","role":"0x55736572","Active":"1"},
+{"id":"17","email":"jasmine.doria@yahoo.com","password":"12345","role":"0x55736572","Active":"1"},
+{"id":"18","email":"a@a.com","password":"a","role":"0x41646d696e","Active":"1"},
+{"id":"19","email":"jasmine.doria@a.com","password":"123","role":"0x55736572","Active":"0"},
+{"id":"20","email":"user@a.com","password":"u","role":"0x55736572","Active":"1"},
+{"id":"21","email":"test1@test.com","password":"test","role":"0x41646d696e","Active":"1"}
+]
+}
+]
